@@ -52,6 +52,6 @@ This is:
 
 ## 📌 Author
 
-Maintained by [Harsh Gidwani – learning LLMs one layer at a time 🧠
+Maintained by Harsh Gidwani – learning LLMs one layer at a time 🧠
 
 
